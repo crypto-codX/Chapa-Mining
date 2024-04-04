@@ -32,7 +32,7 @@ TONAPI_TOKEN=
 
 # EN
 
-[Community](https://t.me/chapa_mining)
+[Community]((https://t.me/cryptostudent_channel)
 
 [Jetton community](https://t.me/chipicoin)
 
